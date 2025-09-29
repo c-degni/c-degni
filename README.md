@@ -1,6 +1,6 @@
 # c-degni
 ## 💫 About Me:
-**Bonjour!** <br><br>I'm a comp sci student @ the University of Cincinnati, excited to learn more about everything computer science. I **LOVE** video games and many of my projects are game related. I also enjoy playing basketball, table tennis, climbing, puzzles, tea, food, and traveling. Feel free to contact me about potential project collaborations or anything in general!
+**Bonjour!** <br><br>I'm a comp sci student @ the University of Cincinnati, excited to learn more about everything computer science. I **LOVE** video games and some of my projects are game related; many other projects of mine surround tooling for other developers to grow in knowledge and efficiency. I also enjoy playing basketball, table tennis, climbing, puzzles, tea, food, and traveling. Feel free to contact me about potential project collaborations or anything in general!
 
 
 ## 🌐 Socials:
